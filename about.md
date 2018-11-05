@@ -1,30 +1,27 @@
 ---
-layout: page
+layout: page_no_title
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+<style>
+.text {
+  text-align:justify;  
+  text-justify:auto;
+}
+</style>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+<div id="my_photo" align="center">
+<img src="/assets/my_photo_grad_gown.jpg" alt="My photo" width='400'>
+</div>
 
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+<div class='text' id='intro'>
+I am Chin-Cheng Chan, currently a research assistant at the Multimedia Processing
+and Communications (MPAC) Lab led Prof. Homer Chen.
+I received my Bachelor degree in Electrical Engineering from National Taiwan
+University, Taipei, Taiwan. My primary research interests are image processing
+and its applications to both natural and bio-medical images. Under the supervision
+of Prof. Homer Chens since 2015, I have worked on different research topics,
+including extracting blood vessels from optical coherence tomography data
+ and developing robust algorithms for phase-detection autofocus. My recent research
+ topics are reinforcement learning for autofocus and deep learning for medical images.
+ </div>

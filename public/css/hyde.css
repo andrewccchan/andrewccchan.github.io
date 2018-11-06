@@ -281,6 +281,11 @@ a.sidebar-nav-item:focus {
     margin-top: 10px;
 }
 
+.video_with_caption > iframe{
+    display:block;
+    margin: auto;
+}
+
 .center {
     margin-left: auto;
     margin-right: auto;

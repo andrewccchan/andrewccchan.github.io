@@ -7,10 +7,8 @@ title: Phase Detection Autofocus
 ***
 
 <div class="video_with_caption">
-    <video class="center" width="640" height="360" controls>
-       <source src="/assets/rl_trad_nov_05.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-    </video>
+    <iframe width="640" height="360" src="https://www.youtube.com/embed/sN6z8ccjg8o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
     <p> Comparison of autofocus performance. (left) The autofocus process produced by reinforcement learning. (right) The autofocus process produced by a traditional method [citation]. Reinforcement learning produces a smoother autofocus process in the first scene and a faster process in the second scene. </p>
 </div>
 <br>

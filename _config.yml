@@ -7,8 +7,8 @@ permalink:        pretty
 #relative_permalinks: true
 
 # Setup
-title:            Andrew's Blog2
-tagline:          'Andrew Blog2'
+title:            Andrew's Blog
+tagline:          'Andrew Blog'
 description:      'A place for documenting my research and study'
 url:              http://andrewccchan.github.io
 baseurl:          /
@@ -24,4 +24,4 @@ paginate:         5
 version:          1.0.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/andrewccchan

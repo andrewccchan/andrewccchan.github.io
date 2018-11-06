@@ -7,10 +7,8 @@ title: Short-time Robust Principal Component Analysis for Blood Vessel Extractio
 ***
 
 <div class="video_with_caption">
-    <video class="center" width="640" height="360" controls>
-       <source src="/assets/blood_vessel_demo.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-    </video>
+    <iframe width="640" height="360" src="https://www.youtube.com/embed/f5dHmRSu8mQ"  frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
     <p> OCT volume and the extracted blood vessels. (left) The OCT volume displayed as a sequence of images with each image representing the  en-face view of the skin tissue at a particular depth. The white moving clusters are the red blood cells. These moving cells show the location of blood vessels in the live skin tissue.(right) The extracted blood vessels (red mask) superimposed on the sequence of OCT images </p>
 </div>
 <br>

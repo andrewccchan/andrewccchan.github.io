@@ -6,10 +6,8 @@ title: Deep Learning for Biomedical Images Analysis
 ## Deep Learning for Biomedical Image Analysis
 ***
 <div class="video_with_caption">
-    <video class="center" width="640" height="360" controls>
-       <source src="/assets/dej_demo.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-    </video>
+    <iframe width="640" height="360" src="https://www.youtube.com/embed/QEWqGXA_Ygk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
     <p> Red curves represent the ground-truth DEJs, and green curves present the predicted DEJs. Each image in the video represents a cross-section of an OCT volume. </p>
 </div>
 <br>

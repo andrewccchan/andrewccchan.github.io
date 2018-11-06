@@ -7,11 +7,11 @@ permalink:        pretty
 #relative_permalinks: true
 
 # Setup
-title:            Andrew's Blog
-tagline:          'Andrew Blog'
+title:            Andrew's Blog2
+tagline:          'Andrew Blog2'
 description:      'A place for documenting my research and study'
 url:              http://andrewccchan.github.io
-baseurl:          http://andrewccchan.github.io/
+baseurl:          /
 
 author:
   name:           'Chin-Cheng Chan'

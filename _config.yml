@@ -11,7 +11,7 @@ title:            Andrew's Blog
 tagline:          'Andrew Blog'
 description:      'A place for documenting my research and study'
 url:              http://andrewccchan.github.io
-baseurl:          
+baseurl:          http://andrewccchan.github.io/
 
 author:
   name:           'Chin-Cheng Chan'

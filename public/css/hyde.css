@@ -48,6 +48,7 @@ html {
 p {
   text-align: justify;
   text-justify: inter-word;
+  /* text-indent: 30px; */
 }
 
 /*
@@ -84,7 +85,7 @@ p {
   color: #fff;
   margin-top: 0;
   font-family: "Abril Fatface", serif;
-  font-size: 3.25rem;
+  font-size: 1.6rem;
 }
 
 /* Sidebar nav */
@@ -291,3 +292,43 @@ a.sidebar-nav-item:focus {
     margin-right: auto;
     display: block
 }
+
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+ float: left;
+ width: 38%;
+ padding: 5px;
+}
+
+.column2 {
+ float: left;
+ width: 62%;
+ padding: 30px;
+ line-height: 0.4;
+
+ /* vertical-align: middle; */
+}
+
+.column2 > h1{
+  text-align: left;
+  font-size: 50px;
+  margin-top: -35px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+ content: "";
+ clear: both;
+ display: table;
+}
+
+
+/* div.normal {
+    line-height: normal;
+} */
+
+/* table.fixed {table-layout:fixed; width:500px;}/*Setting the table width is important!*/
+/* table.fixed td {overflow:hidden;}/*Hide text outside the cell.*/
+/* table.fixed td:nth-of-type(1) {width:150px;}/*Setting the width of column 1.*/ */
+/* table.fixed td:nth-of-type(2) {width:350px;}/*Setting the width of column 2.*/ */ */ */
+/* table.fixed td:nth-of-type(3) {width:40px;}/*Setting the width of column 3.*/ */

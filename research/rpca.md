@@ -9,7 +9,7 @@ title: Application of robust principal component analysis (RPCA)
 <div class="video_with_caption">
     <iframe width="640" height="360" src="https://www.youtube.com/embed/f5dHmRSu8mQ"  frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-    <p> OCT volume and the extracted blood vessels. (left) The OCT volume displayed as a sequence of images with each image representing the  en-face view of the skin tissue at a particular depth. The white moving clusters are the red blood cells. These moving cells show the location of blood vessels in the live skin tissue.(right) The extracted blood vessels (red mask) superimposed on the sequence of OCT images </p>
+    <p> OCT volume and the extracted blood vessels. (left) The OCT volume displayed as a sequence of images with each image representing the  en-face view of the skin tissue at a particular depth. The white moving clusters are the red blood cells. These moving cells show the location of blood vessels in the live skin tissue. (right) The extracted blood vessels (red mask) superimposed on the OCT image sequence. </p>
 </div>
 <br>
 

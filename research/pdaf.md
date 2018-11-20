@@ -9,7 +9,7 @@ title: Phase Detection Autofocus
 <div class="video_with_caption">
     <iframe width="640" height="360" src="https://www.youtube.com/embed/sN6z8ccjg8o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-    <p> Comparison of autofocus performance. (left) The autofocus process produced by reinforcement learning. (right) The autofocus process produced by a traditional method [citation]. Reinforcement learning produces a smoother autofocus process in the first scene and a faster process in the second scene. </p>
+    <p> Comparison of autofocus performance. (left) The autofocus process produced by reinforcement learning. (right) The autofocus process produced by a traditional method [2]. Reinforcement learning produces a smoother autofocus process in the first scene and a faster process in the second scene. </p>
 </div>
 <br>
 
@@ -17,9 +17,9 @@ Phase detection autofocus (PDAF) is a technique that uses sensors on left and ri
 
 To combat the noise of phase information, I studied the raw images and the point spread function of the camera to figure out the cause of the noise. Through this process, I realized that the quality of phase information could be greatly improved by simply applying a Gaussian filter to the correlation curve. (A correlation curve represents the correlation between the assembled left and right pixels at different amounts of shift.) This work was published in IEEE International Conference on Image Processing (ICIP) 2017 [1].
 
-Although the Gaussian filtering technique improves the quality of phase shift measurement, it is still insufficient to guarantee a successful autofocus process. Therefore, I proposed to characterize the relationship between phase shift and lens movement by a statistical model and use the Bayes' theorem to determine lens movement given a phase shift based on the learned statistical model. This work published in Electronic Imaging (EI) 2018 [2].
+Although the Gaussian filtering technique improves the quality of phase shift measurement, it is still insufficient to guarantee a successful autofocus process since it cannot completely remove the noise. Therefore, I proposed to characterize the relationship between phase shift and lens movement by a statistical model and use the Bayes' theorem to determine lens movement given a phase shift based on the learned statistical model. This work was published in Electronic Imaging (EI) 2018 [2].
 
-Both approaches above are not able to utilize information from an early stage of an autofocus process in the latter stage. Motivated by recent successes of deep learning in many fields, I used a recurrent neural network, which can effectively utilize the history, to learn the autofocus process and trained the network by deep reinforcement learning. I also proposed a noise-tolerant reward function to combat the noise of the phase data. Experimental results show that the method indeed improves the autofocus speed when the initial distance of the lens to the in-focus position is very large. This work was accepted by EI 2019 [3]. To the best of our knowledge, this is one of the first data-driven approaches to autofocus and may serve as a foundation for future research in PDAF.
+Both approaches above are not able to utilize information from an early stage of an autofocus process in the latter stage. Motivated by recent successes of deep learning in many fields, I used a recurrent neural network, which can effectively utilize the history, to learn the whole autofocus process and trained the network by deep reinforcement learning. I also proposed a noise-tolerant reward function to combat the noise of the phase information. Experimental results show that the method indeed improves the autofocus speed when the initial distance of the lens to the in-focus position is very large. This work was accepted by EI 2019 [3]. To the best of our knowledge, this is one of the first data-driven approaches to autofocus and may serve as a foundation for future research in PDAF.
 
 <br>
 **Publications:**  

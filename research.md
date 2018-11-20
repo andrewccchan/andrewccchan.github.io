@@ -16,8 +16,8 @@ The sparse and low-rank model has achieved tremendous success in many image proc
 
 ***
 ### [<u>Phase Detection Autofocus</u>](/research/pdaf)
-**Sep. 2016---Jul. 2018**  
-Autofocus, which enables sharp images to be captured automatically, plays an important role in many imaging systems. Phase detection autofocus (PDAF) uses the phase information of an image to assist autofocus, but the challenge is that the phase information is usually noisy. Therefore, the goal of this project is to improve the reliability of PDAF. I started from figuring out the principal of PDAF and eventually published three papers---each addresses a problem that cannot be solved by previous approaches---to combat the noise of the phase information. [<u>Read more</u>](/research/pdaf).  
+**Sept. 2016---Jul. 2018**  
+Autofocus, which enables sharp images to be captured automatically, plays an important role in many imaging systems. Phase detection autofocus (PDAF) uses the phase information of an image to assist autofocus, but the challenge is that the phase information is usually noisy. Therefore, the goal of this project is to improve the reliability of PDAF. I started from figuring out the principles of PDAF and eventually published three papers---each addresses a problem that cannot be solved by the previous approach---to combat the noise of the phase information. [<u>Read more</u>](/research/pdaf).  
 
 **Publications:**  
 <small>**C. Chan**, S. Huang and H. H. Chen, "Enhancement of phase detection for autofocus," 2017 IEEE International Conference on Image Processing (ICIP), Beijing, 2017, pp. 41-45. [<u>Link</u>.](/resources/ENHANCEMENT OF PHASE DETECTION FOR AUTOFOCUS.pdf)  </small>  

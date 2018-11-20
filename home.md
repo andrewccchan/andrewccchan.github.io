@@ -37,10 +37,11 @@ My first project is to study the applications of the robust principal component 
 
 Later, I conducted extensive research on improving the reliability of phase-detection autofocus (PDAF). I used my analytical skills to figure out the cause of the instability of PDAF and proposed three solutions---each addresses a problem that cannot be solved by the previous one.  
 
-My current research project is to apply deep learning to the analysis of OCT images. I worked interdisciplinarily with the Solid-state Laser Crystal and Device Laboratory at National Taiwan University, and I used the knowledge in both deep learning and OCT to quickly figure out the direction of research.
+My current research project is to apply deep learning to the analysis of OCT images. I work interdisciplinarily with the Solid-state Laser Crystal and Device Laboratory at National Taiwan University, and I use the knowledge in both deep learning and OCT to quickly figure out the direction of research.
 
-If you are interested in my research, please check out the [<u>Research</u>](/3_research) page for more information.
+If you are interested in my research, please check out the [<u>Research</u>](/research) page for more information.
 
 ## Research Interests
-- Data-driven approaches to medical image processing
-- Joint design of imaging systems and image processing algorithms
+- Biomedical image processing with a focus on data-driven approaches
+- Computational imaging with a focus on the joint design of imaging systems and image processing algorithms
+- Inverse problems in image or signal processing

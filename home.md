@@ -18,7 +18,7 @@ title: Home
     <img src="/assets/my_photo_grad_gown.jpg" alt="My photo" width='400'>
     </div>
     <div class="column2" >
-    <h1>Chin-Cheng (Andrew) Chan</h1>
+    <h1>Chin-Cheng Chan</h1>
     <p><b>Bachelor of Science in Electrical Engineering</b></p>
     <p>National Taiwan University, Taipei, Taiwan</p>
     <p>2014&mdash;2018</p>

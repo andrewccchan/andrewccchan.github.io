@@ -22,10 +22,10 @@ title: Home
     <b><p>Bachelor of Science in Electrical Engineering</p></b>
     <p>National Taiwan University, Taipei, Taiwan</p>
     <p>2014&mdash;2018</p>
-    <br> <br>
+    <br>
     <p> <b> Contact information: </b> </p>
     <p>Email: <a href="mailto:andrew.minchan@gmail.com">andrew.minchan@gmail.com</a></p>
-    <br> <br>
+    <br>
     <p>Here is my <u><a href="/resources/CV_graduate_application_v3.1.pdf">Curriculum Vitae</a></u>.</p>
     </div>
 </div>

@@ -48,7 +48,7 @@ html {
 p {
   text-align: justify;
   text-justify: inter-word;
-  margin: 0px;
+  /* margin: 0px; */
   /* text-indent: 30px; */
 }
 
@@ -314,12 +314,19 @@ a.sidebar-nav-item:focus {
 .column2 > h1{
   text-align: left;
   /* font-size: 50px; */
-  font-size: 2vw;
+  font-size: 40px;
   margin-top: -35px;
 }
 
 .column2 > p{
   /* font-size: 1vw; */
+  margin: 0px;
+  font-size: 18px;
+}
+
+.column2 > br{
+    /* display:block; */
+    line-height: 30px;
 }
 
 /* Clear floats after image containers */

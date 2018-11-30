@@ -304,14 +304,15 @@ a.sidebar-nav-item:focus {
  float: left;
  width: 62%;
  padding: 30px;
- line-height: 0.4;
+ /* line-height: 0.4; */
 
  /* vertical-align: middle; */
 }
 
 .column2 > h1{
   text-align: left;
-  font-size: 50px;
+  /* font-size: 50px; */
+  font-size: 2.5vw;
   margin-top: -35px;
 }
 

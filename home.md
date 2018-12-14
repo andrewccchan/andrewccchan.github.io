@@ -42,6 +42,6 @@ My current research project is to apply deep learning to the analysis of OCT ima
 If you are interested in my research, please check out the [<u>Research</u>](/research) page for more information.
 
 ## Research Interests
-- Biomedical image processing with a focus on data-driven approaches
 - Computational imaging with a focus on the joint design of imaging systems and image processing algorithms
-- Inverse problems in image or signal processing
+- Biomedical image processing and biomedical imaging
+- Signal processing algorithms and their applications in the biomedical field

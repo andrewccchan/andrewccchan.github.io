@@ -26,7 +26,7 @@ title: Home
     <p> <b> Contact information: </b> </p>
     <p>Email: <a href="mailto:andrew.minchan@gmail.com">andrew.minchan@gmail.com</a></p>
     <br>    
-    <p>Here is my <u><a href="/resources/CV_Chin_Cheng_Chan_1214.pdf">Curriculum Vitae</a></u>.</p>
+    <p>Here is my <u><a href="/resources/CV_Chin_Cheng_Chan_1218.pdf">Curriculum Vitae</a></u>.</p>
     </div>
 </div>
 
